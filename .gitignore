@@ -1,0 +1,26 @@
+# Fichiers de bytecode et caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+env/
+
+# Variables d'environnement et secrets
+.env
+.env.local
+
+# IDE et éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers logs et données temporaires
+*.log
+data/
+logs/
