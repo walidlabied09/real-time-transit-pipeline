@@ -1,6 +1,4 @@
-Oui, compris 👍 Tu veux **un seul bloc de code complet**, que tu peux copier d’un coup dans `README.md`, et non pas plusieurs parties.
 
-````markdown
 # 🚍 Pipeline de Données de Transit en Temps Réel
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
